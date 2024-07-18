@@ -8,7 +8,7 @@ class ProductRepository:
     def __init__(self):
         db_params = {
             'host': 'localhost',
-            'database': 'trendyol-takip',
+            'database': 'gurgencler-takip',
             'user': 'trendyol',
             'password': 'trendyol-bot-1234321'
         }
